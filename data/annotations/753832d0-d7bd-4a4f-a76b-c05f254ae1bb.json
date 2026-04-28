@@ -17,14 +17,14 @@
       "uuid": "1d310930-df1c-4857-8d1b-838d26b931de"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 9,
+      "end_time": 31,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Presentación del problema"
             }
           ]
         }
