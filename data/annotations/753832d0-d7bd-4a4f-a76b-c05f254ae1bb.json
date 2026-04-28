@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aplausos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d310930-df1c-4857-8d1b-838d26b931de"
+    }
+  ],
   "set": "Default",
   "event_id": "e0bf44f0-e9ad-495d-a07a-7e24b93e4736",
   "source_id": "854ecf67-7a58-4957-90f9-410cc0ef9de2"
