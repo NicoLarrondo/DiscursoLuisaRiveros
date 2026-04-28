@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "NicoLarrondo",
+    "is_private": false,
+    "title": "Juan Pablo II en Parque La Bandera: Pobladores denuncian a la dictadura",
+    "description": "Este es un recurso del Museo de la Memoria y DDHH de Chile\n\nLa visita del Papa Juan Pablo II a Chile, en abril de 1987, generó muchas expectativas pero también dudas; mientras para algunos era un símbolo esperanzador, otros creían que sería utilizada por el dictador para mejorar su imagen pública. Por esta razón, cobraron especial relevancia los momentos en que el Pontífice tuvo contacto directo con los chilenos y chilenas, como el encuentro con la juventud en el Estadio Nacional, y la misa masiva realizada el 2 de abril en el Parque La Bandera.\n\nAllí, la pobladora Luisa Riveros desafió a la censura de la comisión organizadora de la visita papal, que había autorizado previamente su discurso. En lugar de leer el texto acordado, Luisa leyó unas palabras que llevó ocultas entre sus ropas. En ellas, compartió con el Papa muchas de las penurias de los pobladores, los efectos de la pobreza y de la represión de la dictadura, y denunció explícitamente no sólo la cesantía, la falta de atención en salud y de educación, sino que también la prisión política, la tortura, el exilio y la situación de los detenidos desaparecidos.\n\nTanto Luisa Riveros como Mario Mejías, quien también habló al Papa ese 2 de abril, sufrieron posteriormente las consecuencias de su acto de valentía; ambos fueron perseguidos, allanados sus hogares y sufrieron de diversas maneras la represión del régimen.\n\nLa actividad, así como todo el itinerario de Juan Pablo II en Chile, fue transmitido en directo por la radio y la televisión. Sin embargo, la mayoría de las radios, así como Televisión Nacional y Canal 11, entonces propiedad de la Universidad de Chile, censuraron la palabra de los pobladores, sustituyéndola por música incidental. Sólo a través de canal 13, de la Universidad Católica, y de las radios opositoras, se pudo escuchar el registro íntegro.\n\nAl día siguiente, el Papa tuvo un breve encuentro con Carmen Gloria Quintana, quien apenas unos meses antes había sido quemada por efectivos militares por una patrulla militar, y luego celebró una masiva eucaristía en el Parque O’Higgins con motivo de la beatificación de Sor Teresa de los Andes, evento en el cual se produjeron manifestaciones que fueron violentamente reprimidas por Carabineros.\n",
+    "language": "es",
+    "slug": "DiscursoLuisaRiveros",
+    "creator": "NicoLarrondo",
+    "authors": "Museo de la Memoria y DDHH de Chile",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-04-28T20:40:49.492Z",
+    "updated_at": "2026-04-28T20:40:49.492Z"
   }
 }
